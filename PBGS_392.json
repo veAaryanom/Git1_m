@@ -1,0 +1,48 @@
+{
+    "name": "PBGS_392",
+    "description": "Introducing PaperBag Guy, a curious soul from a quaint little town, whose only shield against the world is a whimsical paper bag. After life's unexpected twists left him all alone, he found solace in the shadowy alleys and forgotten corners of the downtown district. Each day is a new adventure, exploring urban mazes with his paper bag fluttering in the breeze, a silent witness to his untold stories.This unique NFT collection brings to life the enigmatic journey of PaperBag Guy as he seeks a place to call home amidst the bustling chaos of city life. Imbued with nostalgia and a touch of mystery, each piece is a window into his world, urging collectors to offer him a corner in their digital realm. Will you be the one to change his fate and give him the warm, loving home he dreams of? Join us and be a part of PaperBag Guy's journey towards finding belonging and happiness.",
+    "image": "https://raw.githubusercontent.com/veAaryanom/Git-1/refs/heads/main/PBGS_392.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "DownHand",
+            "value": "Bomb"
+        },
+        {
+            "trait_type": "Paper bag",
+            "value": "PaperBag guy"
+        },
+        {
+            "trait_type": "Shoes",
+            "value": "Bunny slippers "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Grey moustache glasses "
+        },
+        {
+            "trait_type": "Face",
+            "value": "Cello Tape "
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Pencil "
+        },
+        {
+            "trait_type": "Head",
+            "value": "Banana peel "
+        },
+        {
+            "trait_type": "Up Hand",
+            "value": "Boombox "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cigar"
+        }
+    ],
+    "creator": "mxVl"
+}
